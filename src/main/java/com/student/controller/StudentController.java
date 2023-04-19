@@ -10,7 +10,7 @@ public class StudentController {
 
 	@GetMapping(value = "/get")
 	public String getMessage() {
-		return "Welcome to the college";
+		return "Welcome to the DRK college";
 	}
 
 }
